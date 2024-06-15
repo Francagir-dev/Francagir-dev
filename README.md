@@ -2,9 +2,13 @@
 ## Welcome to my Github
 ![Banner de Francagir](francagir-dev.png)
 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]
+
+
 My Pronouns are: HE/HIM
 
 - 🔭 I’m currently working developing games with some friends.
 - 🌱 I’m currently learning C++, Phyton and PHP
 
 - 📫 How to reach me: https://linktr.ee/francagir or message through Discord: Francagir.
+	
