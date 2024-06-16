@@ -51,6 +51,6 @@ This are the tools I use on daily basis:
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### My top languages in this profile:
-![Stats](https://github-readme-stats.vercel.app/api?username=francagir-dev&&line_height=20&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=francagir-dev&count_private=true&show_icons=trueline_height=20&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francagir-dev&langs_count=8&theme=dark)
