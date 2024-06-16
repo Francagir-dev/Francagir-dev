@@ -21,7 +21,7 @@ My Pronouns are: HE/HIM
 - 📫 You can reach me through previous social media or message through Discord: Francagir.
 	
 
-    ### Tools
+    ## Tools
 I mainly work with Windows, but I know and am able to handle Linux.
 
 This are the tools I use on daily basis:
@@ -34,7 +34,6 @@ This are the tools I use on daily basis:
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
  #### These are the languages I am fluent in:
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
