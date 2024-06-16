@@ -1,4 +1,5 @@
 # <img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFqaWt1MjV0dHpjcmxjd3k3YXl2eG91NmF4eDV3MWx6dXBkN3FtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kXixecGzl2gBlpO4SQ/giphy.gif" width="100"/> Hello there 👋
+
 ## Welcome to my Github
 ![Banner de Francagir](francagir-dev.png)
 
@@ -11,7 +12,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCAVIe3VfVss2cRk8sVG6dLA)
 
 
-
 My Pronouns are: HE/HIM
 
 - 🔭 I’m currently working developing games with some friends.
@@ -20,7 +20,7 @@ My Pronouns are: HE/HIM
 - 📫 You can reach me through previous social media or message through Discord: Francagir.
 	
 
-    ## Tools
+ ## Tools
 I mainly work with Windows, but I know and am able to handle Linux.
 
 This are the tools I use on daily basis:
@@ -32,7 +32,7 @@ This are the tools I use on daily basis:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
- #### These are the languages I am fluent in:
+#### These are the languages I am fluent in:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -50,7 +50,9 @@ This are the tools I use on daily basis:
 * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### My top languages in this profile:
+## My Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=francagir-dev&include_all_commits=true&count_private=true&show_icons=trueline_height=20&theme=gotham)
 
+
+## My top languages in this profile:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francagir-dev&langs_count=8&theme=dark)
