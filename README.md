@@ -12,7 +12,6 @@
 
 
 
-
 My Pronouns are: HE/HIM
 
 - 🔭 I’m currently working developing games with some friends.
@@ -50,3 +49,6 @@ This are the tools I use on daily basis:
 * ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### My top languages in this profile:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
