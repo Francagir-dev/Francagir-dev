@@ -49,10 +49,11 @@ This are the tools I use on daily basis:
 * ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+<!--
 ## My Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=francagir-dev&include_all_commits=true&count_private=true&show_icons=trueline_height=20&theme=gotham)
 
 
 ## My top languages in this profile:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francagir-dev&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francagir-dev&langs_count=8&theme=dark)-->
+
