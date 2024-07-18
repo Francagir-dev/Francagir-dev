@@ -21,7 +21,7 @@ My Pronouns are: HE/HIM
 	
 
  ## Tools
-I mainly work with Windows, but I know and am able to handle Linux.
+I mainly work with Windows, but I know and I am able to handle Linux.
 
 This are the tools I use on daily basis:
 
